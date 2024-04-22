@@ -1,0 +1,283 @@
+[
+  {
+    "product": "MacBook Air",
+    "model": "13-inch (M2 chip)",
+    "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-midnight-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367688034",
+    "modelColorName": "Midnight",
+    "baseSpecification": {
+      "processorModel": "M2",
+      "processor": "8-Core CPU",
+      "graphicProcessor": "8-Core GPU",
+      "momory": "8GB Unified Memory",
+      "storageCapacity": "256GB SSD Storage¹"
+    },
+    "features": {
+      "neural_engine": "16-core Neural Engine",
+      "display": "13.6-inch Liquid Retina display with True Tone²",
+      "camera": "1080p FaceTime HD camera",
+      "charging_port": "MagSafe 3 charging port",
+      "ports": "Two Thunderbolt / USB 4 ports",
+      "external_display_support": "Support for one external display",
+      "keyboard": "Magic Keyboard with Touch ID",
+      "trackpad": "Force Touch trackpad",
+      "power_adapter": "30W USB-C Power Adapter"
+    },
+    "price": {
+      "unitPrice": 999.0,
+      "monthlyPayment": 83.25
+    }
+  },
+  {
+    "product": "MacBook Air",
+    "model": "13-inch (M2 chip)",
+    "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-starlight-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367845124",
+    "modelColorName": "Starlight",
+    "baseSpecification": {
+      "processorModel": "M2",
+      "processor": "8-Core CPU",
+      "graphicProcessor": "8-Core GPU",
+      "momory": "8GB Unified Memory",
+      "storageCapacity": "256GB SSD Storage¹"
+    },
+    "features": {
+      "neural_engine": "16-core Neural Engine",
+      "display": "13.6-inch Liquid Retina display with True Tone²",
+      "camera": "1080p FaceTime HD camera",
+      "charging_port": "MagSafe 3 charging port",
+      "ports": "Two Thunderbolt / USB 4 ports",
+      "external_display_support": "Support for one external display",
+      "keyboard": "Magic Keyboard with Touch ID",
+      "trackpad": "Force Touch trackpad",
+      "power_adapter": "30W USB-C Power Adapter"
+    },
+    "price": {
+      "unitPrice": 999.0,
+      "monthlyPayment": 83.25
+    }
+  },
+  {
+    "product": "MacBook Air",
+    "model": "13-inch (M2 chip)",
+    "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-spacegray-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367688029",
+    "modelColorName": "Space Gray",
+    "baseSpecification": {
+      "processorModel": "M2",
+      "processor": "8-Core CPU",
+      "graphicProcessor": "8-Core GPU",
+      "momory": "8GB Unified Memory",
+      "storageCapacity": "256GB SSD Storage¹"
+    },
+    "features": {
+      "neural_engine": "16-core Neural Engine",
+      "display": "13.6-inch Liquid Retina display with True Tone²",
+      "camera": "1080p FaceTime HD camera",
+      "charging_port": "MagSafe 3 charging port",
+      "ports": "Two Thunderbolt / USB 4 ports",
+      "external_display_support": "Support for one external display",
+      "keyboard": "Magic Keyboard with Touch ID",
+      "trackpad": "Force Touch trackpad",
+      "power_adapter": "30W USB-C Power Adapter"
+    },
+    "price": {
+      "unitPrice": 999.0,
+      "monthlyPayment": 83.25
+    }
+  },
+  {
+    "product": "MacBook Air",
+    "model": "13-inch (M2 chip)",
+    "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-silver-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367688030",
+    "modelColorName": "Silver",
+    "baseSpecification": {
+      "processorModel": "M2",
+      "processor": "8-Core CPU",
+      "graphicProcessor": "8-Core GPU",
+      "momory": "8GB Unified Memory",
+      "storageCapacity": "256GB SSD Storage¹"
+    },
+    "features": {
+      "neural_engine": "16-core Neural Engine",
+      "display": "13.6-inch Liquid Retina display with True Tone²",
+      "camera": "1080p FaceTime HD camera",
+      "charging_port": "MagSafe 3 charging port",
+      "ports": "Two Thunderbolt / USB 4 ports",
+      "external_display_support": "Support for one external display",
+      "keyboard": "Magic Keyboard with Touch ID",
+      "trackpad": "Force Touch trackpad",
+      "power_adapter": "30W USB-C Power Adapter"
+    },
+    "price": {
+      "unitPrice": 999.0,
+      "monthlyPayment": 83.25
+    }
+  },
+  {
+    "product": "MacBook Air",
+    "model": "13-inch (M2 chip)",
+    "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-midnight-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367688034",
+    "modelColorName": "Midnight",
+    "baseSpecification": {
+      "processorModel": "M2",
+      "processor": "8-Core CPU",
+      "graphicProcessor": "10-Core GPU",
+      "momory": "8GB Unified Memory",
+      "storageCapacity": "512GB SSD Storage¹"
+    },
+    "features": {
+      "neural_engine": "16-core Neural Engine",
+      "display": "13.6-inch Liquid Retina display with True Tone²",
+      "camera": "1080p FaceTime HD camera",
+      "charging_port": "MagSafe 3 charging port",
+      "ports": "Two Thunderbolt / USB 4 ports",
+      "external_display_support": "Support for one external display",
+      "keyboard": "Magic Keyboard with Touch ID",
+      "trackpad": "Force Touch trackpad",
+      "power_adapter": "35W Dual USB-C Port Compact Power Adapter"
+    },
+    "price": {
+      "unitPrice": 1199.0,
+      "monthlyPayment": 99.91
+    }
+  },
+  {
+    "product": "MacBook Air",
+    "model": "13-inch (M2 chip)",
+    "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-starlight-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367845124",
+    "modelColorName": "Starlight",
+    "baseSpecification": {
+      "processorModel": "M2",
+      "processor": "8-Core CPU",
+      "graphicProcessor": "10-Core GPU",
+      "momory": "8GB Unified Memory",
+      "storageCapacity": "512GB SSD Storage¹"
+    },
+    "features": {
+      "neural_engine": "16-core Neural Engine",
+      "display": "13.6-inch Liquid Retina display with True Tone²",
+      "camera": "1080p FaceTime HD camera",
+      "charging_port": "MagSafe 3 charging port",
+      "ports": "Two Thunderbolt / USB 4 ports",
+      "external_display_support": "Support for one external display",
+      "keyboard": "Magic Keyboard with Touch ID",
+      "trackpad": "Force Touch trackpad",
+      "power_adapter": "35W Dual USB-C Port Compact Power Adapter"
+    },
+    "price": {
+      "unitPrice": 1199.0,
+      "monthlyPayment": 99.91
+    }
+  },
+  {
+    "product": "MacBook Air",
+    "model": "13-inch (M2 chip)",
+    "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-spacegray-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367688029",
+    "modelColorName": "Space Gray",
+    "baseSpecification": {
+      "processorModel": "M2",
+      "processor": "8-Core CPU",
+      "graphicProcessor": "10-Core GPU",
+      "momory": "8GB Unified Memory",
+      "storageCapacity": "512GB SSD Storage¹"
+    },
+    "features": {
+      "neural_engine": "16-core Neural Engine",
+      "display": "13.6-inch Liquid Retina display with True Tone²",
+      "camera": "1080p FaceTime HD camera",
+      "charging_port": "MagSafe 3 charging port",
+      "ports": "Two Thunderbolt / USB 4 ports",
+      "external_display_support": "Support for one external display",
+      "keyboard": "Magic Keyboard with Touch ID",
+      "trackpad": "Force Touch trackpad",
+      "power_adapter": "35W Dual USB-C Port Compact Power Adapter"
+    },
+    "price": {
+      "unitPrice": 1199.0,
+      "monthlyPayment": 99.91
+    }
+  },
+  {
+    "product": "MacBook Air",
+    "model": "13-inch (M2 chip)",
+    "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-spacegray-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367688029",
+    "modelColorName": "Silver",
+    "baseSpecification": {
+      "processorModel": "M2",
+      "processor": "8-Core CPU",
+      "graphicProcessor": "10-Core GPU",
+      "momory": "8GB Unified Memory",
+      "storageCapacity": "512GB SSD Storage¹"
+    },
+    "features": {
+      "neural_engine": "16-core Neural Engine",
+      "display": "13.6-inch Liquid Retina display with True Tone²",
+      "camera": "1080p FaceTime HD camera",
+      "charging_port": "MagSafe 3 charging port",
+      "ports": "Two Thunderbolt / USB 4 ports",
+      "external_display_support": "Support for one external display",
+      "keyboard": "Magic Keyboard with Touch ID",
+      "trackpad": "Force Touch trackpad",
+      "power_adapter": "35W Dual USB-C Port Compact Power Adapter"
+    },
+    "price": {
+      "unitPrice": 1199.0,
+      "monthlyPayment": 99.91
+    }
+  },
+  {
+    "product": "MacBook Air",
+    "model": "13-inch (M3 chip)",
+    "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-silver-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367688030",
+    "modelColorName": "Silver",
+    "baseSpecification": {
+      "processorModel": "M2",
+      "processor": "8-Core CPU",
+      "graphicProcessor": "10-Core GPU",
+      "momory": "8GB Unified Memory",
+      "storageCapacity": "512GB SSD Storage¹"
+    },
+    "features": {
+      "neural_engine": "16-core Neural Engine",
+      "display": "13.6-inch Liquid Retina display with True Tone²",
+      "camera": "1080p FaceTime HD camera",
+      "charging_port": "MagSafe 3 charging port",
+      "ports": "Two Thunderbolt / USB 4 ports",
+      "external_display_support": "Support for up to two external displays (with laptop lid closed)",
+      "keyboard": "Magic Keyboard with Touch ID",
+      "trackpad": "Force Touch trackpad",
+      "power_adapter": "35W Dual USB-C Port Compact Power Adapter"
+    },
+    "price": {
+      "unitPrice": 1299.0,
+      "monthlyPayment": 108.25
+    }
+  },
+
+  {
+    "product": "MacBook Air",
+    "model": "15-inch (M3 chip)",
+    "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-silver-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367688030",
+    "modelColorName": "Silver",
+    "baseSpecification": {
+      "processorModel": "M2",
+      "processor": "8-Core CPU",
+      "graphicProcessor": "10-Core GPU",
+      "momory": "8GB Unified Memory",
+      "storageCapacity": "512GB SSD Storage¹"
+    },
+    "features": {
+      "neural_engine": "16-core Neural Engine",
+      "display": "15.3-inch Liquid Retina display with True Tone²",
+      "camera": "1080p FaceTime HD camera",
+      "charging_port": "MagSafe 3 charging port",
+      "ports": "Two Thunderbolt / USB 4 ports",
+      "external_display_support": "Support for up to two external displays (with laptop lid closed)",
+      "keyboard": "Magic Keyboard with Touch ID",
+      "trackpad": "Force Touch trackpad",
+      "power_adapter": "35W Dual USB-C Port Compact Power Adapter"
+    },
+    "price": {
+      "unitPrice": 1499.0,
+      "monthlyPayment": 124.91
+    }
+  }
+]
