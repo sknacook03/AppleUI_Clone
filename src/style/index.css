@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.boxCon{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
+.boxCon .processorModel{
+    background-color: black;
+    width: fit-content;
+    padding: 11px;
+    border-radius: 20%;
+    margin: 6px;
+    margin-left: 0px;
+}
+.boxCon .processorModel h3{
+    font-size: 12px;
+    color: #ffffff;
+}
+.items{
+
+}
+
+.buttonSelectModel button{
+    padding: 25px;
+    margin: 2px 2px 0px 2px;
+}
+.buttonSelectModel button:focus{
+    outline: 2px solid blue; 
+}
+.choiceColor button{
+    padding: 12px;
+    border-radius: 100%;
+    margin: 2px 3px 2px 3px;
+    border: none;  
+}
+.choiceColor button:focus{
+    outline: 2px solid blue; 
+
+}
