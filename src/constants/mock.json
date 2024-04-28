@@ -4,6 +4,7 @@
     "model": "13-inch (M2 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-midnight-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367688034",
     "modelColorName": "Midnight",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-midnight-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707132",
     "baseSpecification": {
       "processorModel": "M2",
       "processor": "8-Core CPU",
@@ -32,6 +33,7 @@
     "model": "13-inch (M2 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-starlight-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367845124",
     "modelColorName": "Starlight",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-starlight-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707466",
     "baseSpecification": {
       "processorModel": "M2",
       "processor": "8-Core CPU",
@@ -60,6 +62,7 @@
     "model": "13-inch (M2 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-spacegray-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367688029",
     "modelColorName": "Space Gray",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-spacegray-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707397",
     "baseSpecification": {
       "processorModel": "M2",
       "processor": "8-Core CPU",
@@ -88,6 +91,7 @@
     "model": "13-inch (M2 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-silver-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367688030",
     "modelColorName": "Silver",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-silver-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707198",
     "baseSpecification": {
       "processorModel": "M2",
       "processor": "8-Core CPU",
@@ -116,6 +120,7 @@
     "model": "13-inch (M2 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-midnight-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367688034",
     "modelColorName": "Midnight",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-midnight-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707132",
     "baseSpecification": {
       "processorModel": "M2",
       "processor": "8-Core CPU",
@@ -144,6 +149,7 @@
     "model": "13-inch (M2 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-starlight-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367845124",
     "modelColorName": "Starlight",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-starlight-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707466",
     "baseSpecification": {
       "processorModel": "M2",
       "processor": "8-Core CPU",
@@ -172,6 +178,7 @@
     "model": "13-inch (M2 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-spacegray-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367688029",
     "modelColorName": "Space Gray",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-spacegray-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707397",
     "baseSpecification": {
       "processorModel": "M2",
       "processor": "8-Core CPU",
@@ -200,6 +207,7 @@
     "model": "13-inch (M2 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-silver-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367688030",
     "modelColorName": "Silver",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-silver-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707198",
     "baseSpecification": {
       "processorModel": "M2",
       "processor": "8-Core CPU",
@@ -228,6 +236,7 @@
     "model": "13-inch (M3 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-midnight-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367688034",
     "modelColorName": "Midnight",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-midnight-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707132",
     "baseSpecification": {
       "processorModel": "M3",
       "processor": "8-Core CPU",
@@ -256,6 +265,7 @@
     "model": "13-inch (M3 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-starlight-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367845124",
     "modelColorName": "Starlight",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-starlight-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707466",
     "baseSpecification": {
       "processorModel": "M3",
       "processor": "8-Core CPU",
@@ -284,6 +294,7 @@
     "model": "13-inch (M3 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-spacegray-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367688029",
     "modelColorName": "Space Gray",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-spacegray-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707397",
     "baseSpecification": {
       "processorModel": "M3",
       "processor": "8-Core CPU",
@@ -312,6 +323,7 @@
     "model": "13-inch (M3 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-silver-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367688030",
     "modelColorName": "Silver",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-silver-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707198",
     "baseSpecification": {
       "processorModel": "M3",
       "processor": "8-Core CPU",
@@ -340,6 +352,7 @@
     "model": "13-inch (M3 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-midnight-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367688034",
     "modelColorName": "Midnight",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-midnight-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707132",
     "baseSpecification": {
       "processorModel": "M3",
       "processor": "8-Core CPU",
@@ -368,6 +381,7 @@
     "model": "13-inch (M3 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-starlight-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367845124",
     "modelColorName": "Starlight",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-starlight-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707466",
     "baseSpecification": {
       "processorModel": "M3",
       "processor": "8-Core CPU",
@@ -396,6 +410,7 @@
     "model": "13-inch (M3 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-spacegray-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367688029",
     "modelColorName": "Space Gray",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-spacegray-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707397",
     "baseSpecification": {
       "processorModel": "M3",
       "processor": "8-Core CPU",
@@ -424,6 +439,7 @@
     "model": "13-inch (M3 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-silver-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367688030",
     "modelColorName": "Silver",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-silver-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707198",
     "baseSpecification": {
       "processorModel": "M3",
       "processor": "8-Core CPU",
@@ -452,6 +468,7 @@
     "model": "13-inch (M3 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-midnight-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367688034",
     "modelColorName": "Midnight",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-midnight-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707132",
     "baseSpecification": {
       "processorModel": "M3",
       "processor": "8-Core CPU",
@@ -480,6 +497,7 @@
     "model": "13-inch (M3 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-starlight-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367845124",
     "modelColorName": "Starlight",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-starlight-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707466",
     "baseSpecification": {
       "processorModel": "M3",
       "processor": "8-Core CPU",
@@ -508,6 +526,7 @@
     "model": "13-inch (M3 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-spacegray-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367688029",
     "modelColorName": "Space Gray",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-spacegray-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707397",
     "baseSpecification": {
       "processorModel": "M3",
       "processor": "8-Core CPU",
@@ -536,6 +555,7 @@
     "model": "13-inch (M3 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-silver-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367688030",
     "modelColorName": "Silver",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-silver-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707198",
     "baseSpecification": {
       "processorModel": "M3",
       "processor": "8-Core CPU",
@@ -564,6 +584,7 @@
     "model": "15-inch (M3 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba15-midnight-select-202306?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1684518479433",
     "modelColorName": "Midnight",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-midnight-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707132",
     "baseSpecification": {
       "processorModel": "M3",
       "processor": "8-Core CPU",
@@ -592,6 +613,7 @@
     "model": "15-inch (M3 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba15-starlight-select-202306?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1684518479450",
     "modelColorName": "Starlight",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-starlight-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707466",
     "baseSpecification": {
       "processorModel": "M3",
       "processor": "8-Core CPU",
@@ -620,6 +642,7 @@
     "model": "15-inch (M3 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba15-spacegray-select-202306?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1684518479428",
     "modelColorName": "Space Gray",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-spacegray-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707397",
     "baseSpecification": {
       "processorModel": "M3",
       "processor": "8-Core CPU",
@@ -648,6 +671,7 @@
     "model": "15-inch (M3 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba15-silver-select-202306?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1684518479266",
     "modelColorName": "Silver",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-silver-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707198",
     "baseSpecification": {
       "processorModel": "M3",
       "processor": "8-Core CPU",
@@ -676,6 +700,7 @@
     "model": "15-inch (M3 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba15-midnight-select-202306?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1684518479433",
     "modelColorName": "Midnight",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-midnight-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707132",
     "baseSpecification": {
       "processorModel": "M3",
       "processor": "8-Core CPU",
@@ -704,6 +729,7 @@
     "model": "15-inch (M3 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba15-starlight-select-202306?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1684518479450",
     "modelColorName": "Starlight",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-starlight-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707466",
     "baseSpecification": {
       "processorModel": "M3",
       "processor": "8-Core CPU",
@@ -732,6 +758,7 @@
     "model": "15-inch (M3 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba15-spacegray-select-202306?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1684518479428",
     "modelColorName": "Space Gray",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-spacegray-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707397",
     "baseSpecification": {
       "processorModel": "M3",
       "processor": "8-Core CPU",
@@ -760,6 +787,7 @@
     "model": "15-inch (M3 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba15-silver-select-202306?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1684518479266",
     "modelColorName": "Silver",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-silver-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707198",
     "baseSpecification": {
       "processorModel": "M3",
       "processor": "8-Core CPU",
@@ -788,6 +816,7 @@
     "model": "15-inch (M3 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba15-midnight-select-202306?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1684518479433",
     "modelColorName": "Midnight",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-midnight-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707132",
     "baseSpecification": {
       "processorModel": "M3",
       "processor": "8-Core CPU",
@@ -816,6 +845,7 @@
     "model": "15-inch (M3 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba15-starlight-select-202306?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1684518479450",
     "modelColorName": "Starlight",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-starlight-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707466",
     "baseSpecification": {
       "processorModel": "M3",
       "processor": "8-Core CPU",
@@ -844,6 +874,7 @@
     "model": "15-inch (M3 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba15-spacegray-select-202306?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1684518479428",
     "modelColorName": "Space Gray",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-spacegray-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707397",
     "baseSpecification": {
       "processorModel": "M3",
       "processor": "8-Core CPU",
@@ -872,6 +903,7 @@
     "model": "15-inch (M3 chip)",
     "modelImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba15-silver-select-202306?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1684518479266",
     "modelColorName": "Silver",
+    "modelColorImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mba13-silver-select-202402_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=90&.v=1707262707198",
     "baseSpecification": {
       "processorModel": "M3",
       "processor": "8-Core CPU",

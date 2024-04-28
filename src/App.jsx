@@ -2,8 +2,7 @@ import { useState } from "react";
 import mockData from "./constants/mock.json";
 import "./style/index.css";
 
-function Product({ data, handleColorChange, allColor }) {
-  <SelectColor />;
+function Product({ data, handleColorChange, allColor, selectColor }) {
   return (
     <div className="items">
       <h2>Model: {data.model}</h2>
@@ -38,50 +37,24 @@ function Product({ data, handleColorChange, allColor }) {
 function ButtonSelectModel({ handleModelChange, allModel }) {
   return (
     <div className="buttonSelectModel">
-      <button onClick={() => handleModelChange(allModel[0])}>
-        13-inch (M2 chip)
-      </button>
-      <button onClick={() => handleModelChange(allModel[1])}>
-        13-inch (M3 chip)
-      </button>
-      <button onClick={() => handleModelChange(allModel[2])}>
-        15-inch (M3 chip)
-      </button>
+      {allModel.map((model, index) => (
+        <button key={index} onClick={() => handleModelChange(model)}>
+          {model}
+        </button>
+      ))}
     </div>
   );
 }
 function ChoiceColor({ handleColorChange, allColor }) {
   return (
     <div className="choiceColor">
-      <button
-        style={{ backgroundColor: "#011635" }}
-        onClick={() => handleColorChange(allColor[0])}
-      >
-        {" "}
-      </button>
-      <button
-        style={{ backgroundColor: "#f4edc6" }}
-        onClick={() => handleColorChange(allColor[1])}
-      >
-        {" "}
-      </button>
-      <button
-        style={{ backgroundColor: "#717378" }}
-        onClick={() => handleColorChange(allColor[2])}
-      >
-        {" "}
-      </button>
-      <button
-        style={{ backgroundColor: "#C0C0C0" }}
-        onClick={() => handleColorChange(allColor[3])}
-      >
-        {" "}
-      </button>
+      {allColor.map((color,index) => (
+        <button key={index} onClick={() => handleColorChange(color)}>
+          <img src={color.image} alt={color.name} width={16} height={16} />
+        </button>
+      ))}
     </div>
   );
-}
-function SelectColor() {
-  return;
 }
 function App({ product }) {
   const allModel = [...new Set(mockData.map((data) => data.model))];
@@ -89,17 +62,28 @@ function App({ product }) {
   const groupModel = mockData.filter((item) => item.model === selectModel);
   const handleModelChange = (model) => setSelectModel(model);
 
-  const allColor = [...new Set(mockData.map((data) => data.modelColorName))];
-  const [selectColor, setSelectColor] = useState(allColor[0]);
-  const groupColor = mockData.filter(
-    (item) => item.modelColorName === selectColor
+  const allColorSet = new Set(
+    mockData.map((data) => {
+      return JSON.stringify({
+        name: data.modelColorName,
+        image: data.modelColorImage,
+      });
+    })
   );
-  const handleColorChange = (color) => setSelectColor(color);
-  console.log(groupColor);
+console.log(allColorSet)
+  const allColor = Array.from(allColorSet).map((item) => JSON.parse(item));
+  const [selectColor, setSelectColor] = useState(allColor[0]);
+
+  const handleColorChange = (color) => {
+    setSelectColor(color);
+    
+  };
 
   const showAll = mockData.filter(
-    (item) => item.model === selectModel && item.modelColorName === selectColor
+    (item) =>
+      item.model === selectModel && item.modelColorName === selectColor.name
   );
+
   return (
     <>
       <ButtonSelectModel
@@ -112,6 +96,7 @@ function App({ product }) {
             key={index}
             data={item}
             handleColorChange={handleColorChange}
+            selectColor={selectColor}
             allColor={allColor}
           />
         ))}
